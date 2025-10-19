@@ -98,7 +98,6 @@ Contributions are welcome! Feel free to:
 
 This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
 
 **Hritik**
 - GitHub: [@Hritik12389](https://github.com/Hritik12389)
