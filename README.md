@@ -109,10 +109,5 @@ This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENS
 - Built with Streamlit framework
 - Deployed on Streamlit Cloud
 
-## 📞 Contact
-
-For questions or feedback, please open an issue on GitHub or reach out through the repository.
-
----
 
 ⭐ If you find this project helpful, please consider giving it a star!
