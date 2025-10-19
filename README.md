@@ -3,7 +3,7 @@
 A machine learning-powered web application that predicts insurance premiums based on user demographics and health information.
 
 [![Streamlit App] live link
-(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+
 (https://insurancepremiumprediction1.streamlit.app/)
 
 ## 📋 Overview
