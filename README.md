@@ -54,12 +54,9 @@ cd ML_project_Insurance_premium_predictor_1
 2. Install required dependencies:
 pip install -r requirements.txt
 
-text
-
 3. Run the application:
 streamlit run main.py
 
-text
 
 ## 💻 Usage
 
@@ -87,22 +84,10 @@ The application uses machine learning algorithms trained on historical insurance
 - **Smoker**: Smoking status (Yes/No)
 - **Region**: Geographic location
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-
-## 📄 License
-
-This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
 
 
 **Hritik**
 - GitHub: [@Hritik12389](https://github.com/Hritik12389)
-
-## 🙏 Acknowledgments
 
 - Dataset sourced from standard insurance premium datasets
 - Built with Streamlit framework
